@@ -1,4 +1,4 @@
-# flutter_app_icon_example
+# Flutter Change Icon And Name
 
 A new Flutter application.
 
