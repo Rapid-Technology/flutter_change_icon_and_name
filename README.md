@@ -1,6 +1,6 @@
 # Flutter Change Icon And Name
 
-A new Flutter application.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/DGFGQb9i37Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=DGFGQb9i37Q)
 
 ## Getting Started
 
